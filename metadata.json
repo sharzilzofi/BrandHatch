@@ -1,0 +1,5 @@
+{
+  "name": "Stock & Profit",
+  "description": "A mobile-first business management tool for small online sellers to track inventory, sales, expenses, and profit in real-time.",
+  "requestFramePermissions": []
+}
